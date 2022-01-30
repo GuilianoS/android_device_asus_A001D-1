@@ -28,7 +28,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-asus
 # Inherit some common source stuff
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
-DEVICE_MAINTAINER := JhonatanMikael
+DEVICE_MAINTAINER := RaidenIshigami
 # Inherit some common AOSP stuff.
 $(call inherit-product, vendor/arrow/config/common.mk)
 
