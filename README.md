@@ -8,7 +8,7 @@ A device so crap that it was abandoned by Asus.
 
 | Device       | Asus Zenfone MaxShot/PlusM2/ShotPlus            |
 | -----------: | :---------------------------------------------- |
-| SoC          | Qualcomm Snapdragon SiP 1                       |
+| SoC          | Qualcomm Fake Snap 450+625                      |
 | CPU          | Octa-core 1.8 GHz                               |
 | GPU          | Adreno 506                                      |
 | Memory       | 3GB RAM/4GB RAM                                 |
